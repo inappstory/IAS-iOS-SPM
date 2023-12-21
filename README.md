@@ -13,7 +13,7 @@ Once you have your Swift package set up, adding InAppStory as a dependency is as
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/inappstory/IAS-iOS-SPM", .exact(from: <SDK version>))
+    .package(url: "https://github.com/inappstory/IAS-iOS-SPM", .exact(<SDK version>))
 ]
 ```
 
