@@ -3,7 +3,7 @@ Repository for reducing version resolve time in Swift Package Manager
 
 | InAppStory version | Build version | iOS SwiftUI version |
 |--------------------|---------------|---------------------|
-| 1.22.10            | 3098          | >= 10.0             |
+| 1.22.11            | 3112          | >= 10.0             |
 
 Version of the library can be obtained from the parameter `InAppStory.buildInfo`
 
