@@ -3,7 +3,7 @@ Repository for reducing version resolve time in Swift Package Manager
 
 | InAppStory version | Build version | iOS SwiftUI version |
 |--------------------|---------------|---------------------|
-| 1.25.5             | 3638          | >= 13.0             |
+| 1.25.6             | 3650          | >= 13.0             |
 
 Version of the library can be obtained from the parameter `InAppStory.buildInfo`
 
@@ -13,7 +13,7 @@ Once you have your Swift package set up, adding InAppStory as a dependency is as
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/inappstory/IAS-iOS-SPM", .exact("1.25.5-SwiftUI"))
+    .package(url: "https://github.com/inappstory/IAS-iOS-SPM", .exact("1.25.6-SwiftUI"))
 ]
 ```
 
