@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
                    name: "InAppStorySDK_SwiftUI",
-                   url: "https://github.com/inappstory/ios-sdk/releases/download/1.27.2-SwiftUI/InAppStorySDK_SwiftUI-1.27.2.xcframework.zip",
-                   checksum: "1fd6652ee6cadc47fe30ddbfd367f4ec6183bf00fe7f1c46f64c00e9dabe9ef9"
+                   url: "https://github.com/inappstory/ios-sdk/releases/download/1.27.3-SwiftUI/InAppStorySDK_SwiftUI-1.27.3.xcframework.zip",
+                   checksum: "2d89c8c6817dc3eefbd518d90c699f094684bd5c564a3d85b98db416e3137f5c"
                )
     ],
     swiftLanguageVersions: [.v5]
